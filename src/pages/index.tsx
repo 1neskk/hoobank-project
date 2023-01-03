@@ -24,13 +24,13 @@ const Home: NextPage = () => {
                       <a href="#home">Home</a>
                     </li>
                     <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
-                    <a href="#">Features</a>
+                    <a href="#features">Features</a>
                     </li>
                     <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
-                    <a href="#">Product</a>
+                    <a href="#product">Product</a>
                     </li>
                     <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
-                    <a href="#">Clients</a>
+                    <a href="#clients">Clients</a>
                     </li>
                 </ul>
                 <div className="sm:hidden flex flex-1 justify-end items-center">
