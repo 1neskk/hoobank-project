@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 const Navbar = () => {
   return (
