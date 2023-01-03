@@ -20,16 +20,16 @@ const Home: NextPage = () => {
               <nav className="w-full flex py-6 justify-between items-center navbar">
                 <img src="https://modernhoobank.netlify.app/assets/logo.efc6c435.svg" alt="hoobank" className="w-[124px] h-[32px]" />
                 <ul className="list-none sm:flex hidden justify-end items-center flex-1">
-                    <li className="font-poppins font-normal cursor-pointer text[16px] mr-10 text-white ">
+                    <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
                       <a href="#home">Home</a>
                     </li>
-                    <li className="font-poppins font-normal cursor-pointer text[16px] mr-10 text-white ">
+                    <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
                     <a href="#">Features</a>
                     </li>
-                    <li className="font-poppins font-normal cursor-pointer text[16px] mr-10 text-white ">
+                    <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
                     <a href="#">Product</a>
                     </li>
-                    <li className="font-poppins font-normal cursor-pointer text[16px] mr-10 text-white ">
+                    <li className="main__text font-normal cursor-pointer text[16px] mr-10 text-white ">
                     <a href="#">Clients</a>
                     </li>
                 </ul>
